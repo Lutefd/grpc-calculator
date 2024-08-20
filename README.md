@@ -1,6 +1,8 @@
 # gRPC Calculator
 
-This is a simple calculator application that uses gRPC (Google Remote Procedure Call) to perform basic arithmetic operations. It's designed as a learning project to help you and your friends understand the basics of gRPC.
+This is a simple calculator application that uses gRPC (Google Remote Procedure Call) to perform basic arithmetic operations. It's designed as a learning project to help you understand the basics of gRPC.
+
+Add some more complex operations!
 
 ## Getting Started
 
